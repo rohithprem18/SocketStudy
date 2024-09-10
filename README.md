@@ -1,4 +1,6 @@
-# Ex.No:1a  			Study of Socket Programming
+# Ex.No:1a  	Study of Socket Programming
+### Register No: 212223040172
+### Name: Rohith Prem S
 
 ## Aim: 
 To perform a study on Socket Programming
